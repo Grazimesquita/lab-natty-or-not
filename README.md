@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Impacto Revolucionário das IAs Generativas no Processo de Tradução
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book oferece uma visão geral do impacto das IAs generativas na tradução, destacando tanto as suas vantagens quanto os desafios
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+https://chatgpt.com/ para criação do texto e https://app.leonardo.ai/image-generation para criação de imagem
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o https://chatgpt.com/ para criação do texto e o https://app.leonardo.ai/image-generation para criação de imagem
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O futuro da tradução parece ser colaborativo, com humanos e máquinas trabalhando juntos para criar traduções mais rápidas, precisas e culturalmente relevantes.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
